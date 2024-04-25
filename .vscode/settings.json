@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Slash City.sln"
+    "dotnet.defaultSolution": "Slash-City.sln"
 }
