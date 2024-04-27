@@ -22,7 +22,7 @@ public class Menu : MonoBehaviour
     }
     public void Play(string name)
     {
-        //SceneManager.LoadScene (name);
+        SceneManager.LoadScene (name);
         Debug.Log("Jugar: " + name);
     }
 
